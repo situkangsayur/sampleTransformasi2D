@@ -1,0 +1,1 @@
+sampleDua.d: ../sampleDua.cpp
